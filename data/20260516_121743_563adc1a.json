@@ -1,0 +1,11 @@
+{
+    "id": "20260516_121743_563adc1a",
+    "created_at": "2026-05-16T12:17:43+00:00",
+    "input_chat": "Poem about life",
+    "gpt_engine": "CHATGPT",
+    "gpt_model": "gpt-4o",
+    "complexity": "DIVE",
+    "provider": "NONE",
+    "source_url": null,
+    "answer": "ERROR:\nNo useful result was found for this selected complexity.\n\nSelected Complexity: DIVE\n\nSearch Mapping:\n- DEEP-DIVE = SearXNG Open Source Metasearch\n- DIVE = DuckDuckGo Instant Answer\n- LEVEL = DuckDuckGo HTML Search\n- SHALLOW = Wikipedia Fallback Search\n- RECURSIVE = Multi-provider aggregate search\n\nOriginal query: Poem about life"
+}

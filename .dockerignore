@@ -1,0 +1,5 @@
+.git
+*.zip
+storage/**/*.json
+storage/**/*.txt
+storage/**/*.log
